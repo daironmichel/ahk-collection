@@ -1,2 +1,2 @@
-# ahk-spotify
+# ahk-collection
 My Personal AutoHotKeys Scripts.
